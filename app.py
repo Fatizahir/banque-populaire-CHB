@@ -1,4 +1,4 @@
-[15:32, 16/07/2026] Zahir Fatimazahra 🫀: import streamlit as st
+ import streamlit as st
 import google.generativeai as genai
 import os
 
